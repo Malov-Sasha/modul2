@@ -1,4 +1,4 @@
-from task_1 import (Book, Car, UserProfile)
+from task 1 import (Book, Car, UserProfile)
 
 if __name__ == "__main__":
     # Создание объектов для всех классов
